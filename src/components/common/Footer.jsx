@@ -1,5 +1,5 @@
 import * as Route from '@/constants/routes';
-import logo from '@/images/logo-full.png';
+import {default as logo} from '@/images/logo-full.svg';
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 

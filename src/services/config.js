@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
-  databaseURL: import.meta.env.VITE_FIREBASE_DB_URL,
-  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MSG_SENDER_ID,
-  appId: import.meta.env.VITE_FIREBASE_APP_ID
+  apiKey: "AIzaSyD6WCtDDLvpEE6ODZP2hf0RkCpqNfbilys",
+  authDomain: "rujiskin-b71d7.firebaseapp.com",
+  projectId: "rujiskin-b71d7",
+  storageBucket: "rujiskin-b71d7.appspot.com",
+  messagingSenderId: "727084927313",
+  appId: "1:727084927313:web:cfc4a046b7d9ed6a12ab70",
+  measurementId: "G-PPRTSWV66X",
 };
 
 export default firebaseConfig;
